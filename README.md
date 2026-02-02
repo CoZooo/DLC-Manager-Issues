@@ -1,6 +1,6 @@
 # DLC Manager
 
----
+
 
 ## Download
 
@@ -8,7 +8,7 @@
 
 [Modrinth](https://modrinth.com/mod/dlc-manager)
 
----
+
 
 ## Wiki
 
